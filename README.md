@@ -4,7 +4,7 @@ Official implementation of "**PGVMS: A Prompt-Guided Unified Framework for Virtu
 ### 🐶Fuqiang Chen,  Ranran Zhang, Wanming Hu, Deboch Eyob Abera, Yue Peng, Boyun Zheng, Yiwen Sun, Jing Cai, Wenjian Qin 
 <br>
 <p align="center">
-<img src="PSPStain.png" align="center" width="600" >
+<img src="PGVMS.png" align="center" width="600" >
 </p>
 <br>
 
@@ -63,7 +63,7 @@ python -m experiments --cmd test  --name "PGVMS"
 ```
 
 ## Checkpoint
-* Place pretrained models in `./pretrain/`. The latest PGVMS weights (`./checkpoints/train/latest_net_G.pth`) are available at [Baidu Pan](https://pan.baidu.com/s/1cPZ2Kk6JtURmtQhtNxzyEQ?pwd=u6qo) (key: `u6qo`).
+* Place pretrained models in `./pretrain/`. The latest PGVMS weights (`./checkpoints/train/latest_net_G.pth`) are available at [Google Drive](https://drive.google.com/drive/folders/1ekuPcvVLlX0D0IQ-OIHdh5L3zwnU-s4l?usp=sharing).
 
 ## Evaluation
 * we use the Image-J to calculate the optical density value.
