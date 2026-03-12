@@ -4,7 +4,7 @@ Official implementation of "**PGVMS: A Prompt-Guided Unified Framework for Virtu
 ### 🐶Fuqiang Chen,  Ranran Zhang, Wanming Hu, Deboch Eyob Abera, Yue Peng, Boyun Zheng, Yiwen Sun, Jing Cai, Wenjian Qin 
 <br>
 <p align="center">
-<img src="PGVMS.png" align="center" width="800" >
+<img src="PGVMS.png" align="center" width="1000" >
 </p>
 <br>
 
