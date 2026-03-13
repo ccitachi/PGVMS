@@ -63,10 +63,10 @@ python -m experiments --cmd test  --name "PGVMS"
 ```
 
 ## Checkpoint
-* Place pretrained models in `./pretrain/`. The latest PGVMS weights (`./checkpoints/train/latest_net_G.pth`) are available at [Google Drive](https://drive.google.com/drive/folders/1ekuPcvVLlX0D0IQ-OIHdh5L3zwnU-s4l?usp=sharing).
+* Place pretrained models in `./pretrain/`. All required pretrained models, including the latest PGVMS weights (`./checkpoints/train/latest_net_G.pth`), are available at [Google Drive](https://drive.google.com/drive/folders/1ekuPcvVLlX0D0IQ-OIHdh5L3zwnU-s4l?usp=sharing).
 
 ## Evaluation
-* we use the Image-J to calculate the optical density value.
+* We use the Image-J to calculate the optical density value.
 
 ## Acknowledgement
-This repo is built upon [Contrastive Unpaired Translation (CUT)](https://github.com/taesungp/contrastive-unpaired-translation), [Adaptive Supervised PatchNCE Loss (ASP)](https://github.com/lifangda01/AdaptiveSupervisedPatchNCE) and [CONCH](https://github.com/mahmoodlab/CONCH)
+This repo is built upon [Contrastive Unpaired Translation (CUT)](https://github.com/taesungp/contrastive-unpaired-translation), [Adaptive Supervised PatchNCE Loss (ASP)](https://github.com/lifangda01/AdaptiveSupervisedPatchNCE), and [CONCH](https://github.com/mahmoodlab/CONCH)
