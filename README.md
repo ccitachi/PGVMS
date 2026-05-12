@@ -1,7 +1,6 @@
 # PGVMS
 Official implementation of "**PGVMS: A Prompt-Guided Unified Framework for Virtual Multiplex IHC Staining with Pathological Semantic Learning**" (TMI 2026) [[arxiv]](https://arxiv.org/abs/2602.23292) 
 
-
 ### 🐶Fuqiang Chen,  Ranran Zhang, Wanming Hu, Deboch Eyob Abera, Yue Peng, Boyun Zheng, Yiwen Sun, Jing Cai, Wenjian Qin 
 
 ### 🌐 Online Demo
@@ -16,7 +15,9 @@ The demo allows users to upload an H&E pathological image, select a target IHC s
 <img src="demo.png" align="center" width="1000" >
 </p>
 <br>
+<br>
 
+## Abstract
 
 <br>
 <p align="center">
