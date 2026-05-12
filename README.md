@@ -17,7 +17,7 @@ The demo allows users to upload an H&E pathological image, select a target IHC s
 ### 🐶Fuqiang Chen,  Ranran Zhang, Wanming Hu, Deboch Eyob Abera, Yue Peng, Boyun Zheng, Yiwen Sun, Jing Cai, Wenjian Qin 
 <br>
 <p align="center">
-<img src="demo.png" align="center" width="1000" >
+<img src="PGVMS.png" align="center" width="1000" >
 </p>
 <br>
 
