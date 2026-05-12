@@ -1,5 +1,18 @@
 # PGVMS
 Official implementation of "**PGVMS: A Prompt-Guided Unified Framework for Virtual Multiplex IHC Staining with Pathological Semantic Learning**" (TMI 2026) [[arxiv]](https://arxiv.org/abs/2602.23292) 
+### 🌐 Online Demo
+
+We provide an online demo for PGVMS at:
+
+👉 **[http://pgvms.qin-mixlab.cn/](http://pgvms.qin-mixlab.cn/)**
+
+The demo allows users to upload an H&E pathological image, select a target IHC staining domain from **PR / Ki67 / HER2 / ER**, and generate the corresponding virtual IHC staining result using the backend PGVMS model. We recommend using H&E images at **20× magnification** for better visualization and inference quality.
+<br>
+<p align="center">
+<img src="demo.png" align="center" width="1000" >
+</p>
+<br>
+<br>
 
 ### 🐶Fuqiang Chen,  Ranran Zhang, Wanming Hu, Deboch Eyob Abera, Yue Peng, Boyun Zheng, Yiwen Sun, Jing Cai, Wenjian Qin 
 <br>
