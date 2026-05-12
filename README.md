@@ -15,7 +15,7 @@ The demo allows users to upload an H&E pathological image, select a target IHC s
 <img src="demo.png" align="center" width="1000" >
 </p>
 <br>
-<br>
+
 
 ## Abstract
 
